@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning SQL and Power BI -- Analytics
 - 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me, ping me at imsena89@g.c.
+- 📫 How to reach me, ping me at imsena89@google.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bored
 
